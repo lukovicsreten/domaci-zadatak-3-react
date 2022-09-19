@@ -1,0 +1,6 @@
+1. Da li imas node na kompu (proveravas tako sto ukucas u terminalu npm --version)
+	- da, ides na korak 2
+	- ne, ides https://nodejs.org/en/download/ i ides na windows installer, onda kucas opet npm --version da vidis verziju koju imas
+	
+2. udjes u folder my-app i uradis npm install u terminalu
+3. kada su se svi paketi instalirali onda u terminalu ides npm start da pokrenes aplikaciju
